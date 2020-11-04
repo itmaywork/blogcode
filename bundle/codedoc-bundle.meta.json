@@ -98,14 +98,14 @@
       "hash": "RZqmijMwCvQBwVufkTGy5g=="
     },
     {
-      "name": "Author",
-      "filename": "/home/runner/work/blogcode/blogcode/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
-      "hash": "Lm+G64oleKFh10oGEtCZcA=="
-    },
-    {
       "name": "ArticleCard",
       "filename": "/home/runner/work/blogcode/blogcode/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
       "hash": "vVnGrgLt29eWD9WZdJmtRA=="
+    },
+    {
+      "name": "Author",
+      "filename": "/home/runner/work/blogcode/blogcode/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "Lm+G64oleKFh10oGEtCZcA=="
     },
     {
       "name": "ToCPrevNext",
