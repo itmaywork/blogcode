@@ -33,14 +33,14 @@ body.dark .darklight-0-0-1>.dark {
 }
   .button-0-0-2 {
     color: white;
-    border: 2px solid #363062;
+    border: 2px solid #39FF14;
     cursor: pointer;
     height: 40px;
     margin: 8px;
     display: inline-flex;
     outline: none;
     padding: 4px 16px;
-    font-size: 16px;
+    font-size: 14px;
     min-width: 96px;
     background: #363062;
     align-items: center;
@@ -66,14 +66,14 @@ body.dark .darklight-0-0-1>.dark {
   }
   body.dark .button-0-0-2 {
     color: black;
-    background: #9399ff;
-    border-color: #9399ff;
+    background: #39FF14;
+    border-color: #39FF14;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-2 {
     color: black;
-    background: #9399ff;
-    border-color: #9399ff;
+    background: #39FF14;
+    border-color: #39FF14;
   }
   body:not(.dark-mode-animate) .button-0-0-2[disabled] {
     color: #212121;
@@ -92,7 +92,7 @@ body.dark .darklight-0-0-1>.dark {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-2:hover:not([disabled]) {
-    color: #9399ff;
+    color: #39FF14;
     background: transparent;
   }
 }
@@ -109,7 +109,7 @@ a.button-0-0-2.icon {
   height: 36px;
 }
   .watermark-0-0-3 {
-    color: #424242;
+    color: #39FF14;
     cursor: pointer;
     display: block;
     opacity: 0.2;
@@ -126,18 +126,18 @@ a.button-0-0-2.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .watermark-0-0-3 {
-    color: #eeeeee;
+    color: #39FF14;
   }
 }
   body.dark .watermark-0-0-3 {
-    color: #eeeeee;
+    color: #39FF14;
   }
   .watermark-0-0-3 svg {
     height: 2rem;
     margin: .25rem 0;
   }
   .watermark-0-0-3 svg g {
-    fill: #424242;
+    fill: #39FF14;
   }
   body.dark-mode-animate .watermark-0-0-3 svg g {
     transition: fill .3s;
@@ -147,7 +147,7 @@ a.button-0-0-2.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .watermark-0-0-3 svg g {
-    fill: #eeeeee;
+    fill: #39FF14;
   }
 }
   .header-0-0-4 {
